@@ -1,7 +1,13 @@
-# Company Financial Analysis Tool
+# Company Valuations Analysis Tool
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e21fcd4a-b73a-4961-b311-cbaa0786a8ec" alt="Image1" width="49%"/>
+  <img src="https://github.com/user-attachments/assets/ec0eaf92-d254-411d-9b00-40f33a80a0c1" alt="Image2" width="49%"
+/>
+</p>
 
 ## Overview
-This project is a comprehensive financial analysis tool designed to evaluate the financial metrics of companies based on their funding rounds and share types. Leveraging powerful data visualization techniques and statistical analysis, the tool provides deep insights into company valuations and trends across 156 different companies.
+This project is a comprehensive financial analysis tool designed to evaluate the financial metrics of companies based on their funding rounds and share types. Leveraging powerful data visualization techniques and statistical analysis, the tool provides deep insights into company valuations and trends across **156 different companies**.
 
 ## Key Features
 
