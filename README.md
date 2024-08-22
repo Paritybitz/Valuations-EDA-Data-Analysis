@@ -11,7 +11,7 @@ This project is a comprehensive financial analysis tool designed to evaluate the
 
 ## Key Features
 
-- **Data Conversion and Normalization**: 
+- **Data Conversion and Standardization**: 
   - Converts complex financial data (e.g., millions, billions) into simple numeric values.
   - Ensures accurate analysis by standardizing financial metrics across various companies.
 
